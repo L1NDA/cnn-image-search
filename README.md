@@ -8,15 +8,15 @@ and then implemented the nearest neighbor algorithm to find the images
 that were most similar to the one submitted
 
 ### A couple examples
-!(static/1.png)
+![Sample 1](static/1.png)
 
-!(static/2.png)
+![Sample 2](static/2.png)
 
-!(static/3.png)
+![Sample 3](static/3.png)
 
-!(static/4.png)
+![Sample 4](static/4.png)
 
-!(static/5.png)
+![Sample 5](static/5.png)
 The second and third nearest neighbor of this photo is not as similar, but it is
 super interesting how the feature extractor from VGG was able to still find
 similarities through the lights and the clothing patterns in the 3rd NN
