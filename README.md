@@ -27,11 +27,16 @@ similarities through the lights and the clothing patterns in the 3rd NN
 
 #### Example 6
 ![Sample 6](static/6.png)
+This one had a much greater distance to its second and third nearest neighbor,
+as you can tell from the images. The model is far from perfect, but potential
+next steps are to try a more complex CNN, whether that be with architecture or
+the specific types of images it was trained on, as well as creating a larger database
+of images (this one only had ~500).
 
 ---
 
 ### Special Thanks To
 
-The TAVTech Fellowship
+[The TAVTech Fellowship](http://taventure.org/)
 
-Gil Levi; AI instructor
+[Gil Levi](https://gilscvblog.com/); AI instructor
